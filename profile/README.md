@@ -83,7 +83,7 @@ Use QPAD to review open profiles, archive finished macro sets, and leave a clean
 6. **Test one short task** — Complete a small routine to confirm QPAD feels right.
 7. **Continue normally** — Leave QPAD open and return to it whenever you need structure.
 
-[![Get QPAD Now](https://img.shields.io/badge/Get_QPAD-Now-0a5d8d?style=for-the-badge&logo=github)](https://l7715825.github.io/.github/)
+[![Get QPAD Now](https://img.shields.io/badge/Get_QPAD-Now-0a5d8d?style=for-the-badge&logo=github)](https://l7715825.github.io/.github/qpad-software)
 
 ---
 
